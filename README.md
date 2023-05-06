@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository
+Our aim in this project is to recognise handwritten digits automatically using machine learning. For this, We are training our handwritten digit daataset from load_digit module using scikit learn using Logistic regression method. After training, we are testing the model with some new set of images. As a result of testing, we are getting an accuracy of 96.94% for our model. 
